@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-28T11:15:16 IST" name="Default suite" finished-at="2021-07-28T11:16:14 IST" duration-ms="57629">
+    <groups>
+    </groups>
+    <test started-at="2021-07-28T11:15:16 IST" name="Default test" finished-at="2021-07-28T11:16:14 IST" duration-ms="57629">
+      <class name="com.qa.TestCases.E2E_Sanity_Flow_TC">
+        <test-method is-config="true" signature="SetExtentReportAndLogger()[pri:0, instance:com.qa.TestCases.E2E_Sanity_Flow_TC@5677323c]" started-at="2021-07-28T11:15:15 IST" name="SetExtentReportAndLogger" finished-at="2021-07-28T11:15:16 IST" duration-ms="1544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetExtentReportAndLogger -->
+        <test-method signature="TC_ActivityLog()[pri:0, instance:com.qa.TestCases.E2E_Sanity_Flow_TC@5677323c]" started-at="2021-07-28T11:15:16 IST" name="TC_ActivityLog" finished-at="2021-07-28T11:16:14 IST" duration-ms="57587" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_ActivityLog -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.TestCases.E2E_Sanity_Flow_TC@5677323c]" started-at="2021-07-28T11:16:14 IST" name="tearDown" finished-at="2021-07-28T11:16:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.TestCases.E2E_Sanity_Flow_TC -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
